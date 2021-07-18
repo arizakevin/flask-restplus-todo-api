@@ -10,7 +10,7 @@ Install dependencies from pipfile.lock:
     
 Launch subshell in virtual environment:
 
-    $ python3 app.py
+    $ pipenv shell
 
 Run api:
 
