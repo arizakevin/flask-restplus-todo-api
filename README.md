@@ -4,14 +4,14 @@ A todo API made with Flask-RESTplus
 Start
 ============
 
-Install dependencies from pipfile.lock
+Install dependencies from pipfile.lock:
 
     $ pipenv install
     
-Launch subshell in virtual environment
+Launch subshell in virtual environment:
 
     $ python3 app.py
 
-Run api
+Run api:
 
     $ python3 api.py
